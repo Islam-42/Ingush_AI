@@ -1,0 +1,33 @@
+# Virtual environments
+venv/
+labse-venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Hugging Face / ML cache
+.cache/
+huggingface/
+.huggingface/
+models/
+checkpoints/
+
+# Large source files
+knowledge/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

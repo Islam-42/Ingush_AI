@@ -1,0 +1,9 @@
+{
+  "original_records": 47724,
+  "records_with_translation": 47705,
+  "unique_words": 43671,
+  "duplicate_groups": 2838,
+  "words_with_multiple_translations": 2737,
+  "empty_translation_removed": 19,
+  "training_pairs": 47582
+}
